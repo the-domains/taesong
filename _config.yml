@@ -1,0 +1,28 @@
+name: taesong
+favicon: null
+layout_spectrum: 0.3684945579152554
+typography_spectrum: 0.3833582582883537
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.9943964008707553
+  lightness: 0.49969956115819514
+  saturation: 0.200776502257213
+  rhythmicContrast: 0.9035940868780017
+purpose: []
